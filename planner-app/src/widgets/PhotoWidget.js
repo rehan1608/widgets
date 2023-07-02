@@ -30,7 +30,7 @@ export default function PhotoWidget() {
   return (
     <div>
       <h3>Photo Gallery</h3>
-      <input type="file" accept="image/*" onChange={handlePhotoUpload} />
+      <input className="input-image" type="file" accept="image/*" onChange={handlePhotoUpload} />
       <div className="photo-gallery">
         {photos.map((photo, index) => (
           <div key={index} className="photo-container">
