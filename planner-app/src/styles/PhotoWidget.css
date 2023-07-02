@@ -67,4 +67,6 @@
     font-size: 24px;
     cursor: pointer;
   }
-  
+  .input-image{
+      margin-bottom:20px;
+  }
