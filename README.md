@@ -1,3 +1,5 @@
+**Live Link** :- <a href="https://rehanwidgets.netlify.app/"> Widget App </a>
+
 **The custom widgets added to the planner app offer enhanced functionality and convenience for users.**  
 
 The Weather Widget provides real-time weather information, allowing users to stay informed about current conditions and plan their day accordingly. By accessing location data and utilizing an API key, the widget retrieves accurate weather details, such as temperature, humidity, and forecast.
